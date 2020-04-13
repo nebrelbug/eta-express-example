@@ -90,10 +90,10 @@ escape-html@~1.0.3:
   resolved "https://registry.yarnpkg.com/escape-html/-/escape-html-1.0.3.tgz#0258eae4d3d0c0974de1c169188ef0051d1d1988"
   integrity sha1-Aljq5NPQwJdN4cFpGI7wBR0dGYg=
 
-eta@^1.0.0-beta.4:
-  version "1.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/eta/-/eta-1.0.0-beta.4.tgz#9071ed10f71f84e02c13b2df7061173f802dddab"
-  integrity sha512-U2FdCtcJVnBknM8FNU9szO+J7wND8UujcZN7ZQ4Cus6dAjSdg5tjyUvat3LdWqvn+uWvit7aVQnBz94nVelaDw==
+eta@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/eta/-/eta-1.0.2.tgz#d2b268e5d44470e8de981d0eb7fb8177e0a09c76"
+  integrity sha512-bOQ+ta4ItqR99a1nH5A7K7nCkCyhSVH1ZD556tPdSdNcg9rlaXGhE+fSm19dyD6Yj5JOwDX24knzBI/f86RfDA==
 
 etag@~1.8.1:
   version "1.8.1"
