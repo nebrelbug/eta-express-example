@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title><%= "Cool page title" %></title>
+    <link rel="stylesheet" href="/public/index.css">
+  </head>
+  <body>
+    <h1>Eta Rendered Page</h1>
+
+    My favorite template engine is <%= it.favorite %> because it is <%= it.reasons.join(", ") %>
+    
+    <%~ E.includeFile('./footer') %>
+  </body>
+</html>
